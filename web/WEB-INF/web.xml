@@ -5,7 +5,7 @@
          version="4.0">
     <servlet>
         <servlet-name>SearchStu</servlet-name>
-        <servlet-class>javademo.AServlet</servlet-class>
+        <servlet-class>javademo.Servlet.AServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>SearchStu</servlet-name>

@@ -1,6 +1,6 @@
 package javademo.DButil;
 
-import javademo.Class;
+import Vo.Class;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package javademo;
+package Vo;
 
 public class Class {
     private String name;
